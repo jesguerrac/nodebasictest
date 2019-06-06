@@ -14,6 +14,7 @@ console.log(math.substract(2,4));
 console.log(math.add(2,4));
 
 //otra forma de llamar archivo
-console.log(greet.greet("eeeee"));
+console.log(greet.greet("Karla"));
 //otro mas
-console.log(hello.sayHello("carrr"));
+console.log(hello.sayHello("julia"));
+// purebas  mas pruebas
