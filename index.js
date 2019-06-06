@@ -15,5 +15,5 @@ console.log(math.add(2,4));
 
 //otra forma de llamar archivo
 console.log(greet.greet("eeeee"));
-
+//otro mas
 console.log(hello.sayHello("carrr"));
